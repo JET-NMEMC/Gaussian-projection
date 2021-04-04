@@ -1,5 +1,3 @@
-# Gaussian-projection
-Gaussian projection coordinate conversion system
 # Positive and negative calculation of Gaussian projection coordinate conversion
 高斯投影坐标转换正反算
 
